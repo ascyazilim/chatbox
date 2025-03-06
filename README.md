@@ -16,6 +16,7 @@ uvicorn llama_api:app --reload
 cd backend
 mvn clean install
 mvn spring-boot:run
+```
 
 ## 🛠️ Test Et
 - **URL:** `http://localhost:8080/api/chat`  
@@ -25,7 +26,7 @@ mvn spring-boot:run
 {
     "message": "Merhaba LLaMA!"
 }
-
+```
 ## 📋 API Endpoint’leri
 
 ### 🐍 LLaMA API (Python)
