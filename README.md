@@ -20,7 +20,7 @@ mvn spring-boot:run
 ```
 
 ## 🛠️ Test Et
-- **URL:** `http://localhost:8080/api/chat`  
+- **URL:** `http://localhost:8080/chat`  
 - **Method:** `POST`  
 - **Body:** (JSON)
 ```json
