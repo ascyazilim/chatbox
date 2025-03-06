@@ -10,6 +10,7 @@
 cd llama-api
 pip install -r requirements.txt
 uvicorn llama_api:app --reload
+```
 
 ## 2. Backend (Java Spring Boot)
 ```bash
